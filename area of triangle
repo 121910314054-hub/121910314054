@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<math.h>
+void main()
+{
+float a,b,c=0,A =0;
+printf ("enter the two side of triangle");
+scanf("%f%f/n",&a&b);
+c = sqrt( (a*a) +(b*b));
+A = (1(b*c)/2);
+printf("the aera of triangle is"A);
+}
+output
+enter the two side of triangle 
+5.000000
+3.000000
+the area of the triangle is 8.745000
