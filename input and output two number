@@ -4,16 +4,17 @@ void main()
 {
   int a, b,sum = 0;
   printf ("enter the two number");
-  scanf ("%d%d/n",&a&b);
+  scanf ("%d%d%d/n",&a&b&c);
   sum  = (a+b);
-  printf ("the sum of two number is/n" sum);
+  printf ("the sum of three number is/n" sum);
   }
   output
-  enter the two number
+  enter the three number
   10
   20
-  the sum of two number is 
   30
+  the sum of two number is 
+  60
   
   
   
